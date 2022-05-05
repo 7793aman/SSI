@@ -1,0 +1,8 @@
+
+> issue-credential@1.0.0 start C:\SSI\MATTR\IHV\Verifier
+> ts-node src/app.ts "PS" "C:\SSI\MATTR\IHV\Verifier" "start"
+
+
+ Server started on port 2000 
+
+Terminate batch job (Y/N)? 
