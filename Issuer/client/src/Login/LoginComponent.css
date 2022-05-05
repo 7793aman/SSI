@@ -1,0 +1,52 @@
+.form-container {
+    background-color: darkslateblue;
+    width: 100vw;
+    height: 100vh;
+}
+
+.form {
+    padding: 2.5rem 3rem;
+    background-color: white;
+    border-radius: 0.5rem;
+    height: 25rem;
+    width: 35vw;
+}
+
+.form-controls input {
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    line-height: 2.5;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 1px solid gray;
+    border-radius: 0.2rem;
+
+}
+
+.form-controls input:focus {
+    outline: none;
+    border: 2px solid darkslateblue;
+}
+
+
+
+.form-controls button {
+    justify-self: center;
+    align-self: center;
+    margin-top: 1rem;
+    width: 100%;
+    color: #fff;
+    background-color: black;
+    opacity: 0.9;
+    font-size: .875rem;
+    line-height: 3;
+    border-radius: 0.3rem;
+    border: none;
+
+}
+
+
+.form-container h3 {
+    color: #4f4f4f;
+    margin-bottom: 3rem;
+}
